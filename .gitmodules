@@ -1,0 +1,3 @@
+[submodule "BinaryGap"]
+	path = BinaryGap
+	url = https://github.com/mehdimahmoud/Codility/BinaryGap
